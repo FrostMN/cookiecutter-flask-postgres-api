@@ -12,7 +12,7 @@ Project template for Flask API.
 
 1. Cookie cut the template.
 
-        cookiecutter git@github.com:ardydedase/cookiecutter-flask-postgres-api.git
+        cookiecutter git@github.com:FrostMN/cookiecutter-flask-postgres-api.git
 
 1. Enter the values accordingly. Pick your project name.
 
